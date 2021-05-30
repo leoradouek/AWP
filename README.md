@@ -11,6 +11,6 @@ Web application version of the charades-based party game, Times Up.
 
 ### Roadmap
 - Sign up/login 
-- Implementing room functionality using Socket.IO
+- Implementing rooms using Socket.IO
 - Live chat feature
 
